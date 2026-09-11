@@ -14,7 +14,7 @@ const Links = () => {
         Favorites
       </NavLink>
       <NavLink to="/about" className='link'>
-        <RiInformationLine className="icon" color="#573BC5" size={18} />
+        <RiInformationLine className="icon"  size={18} />
         About
       </NavLink>
     </div>
